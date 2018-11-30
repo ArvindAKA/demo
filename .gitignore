@@ -1,3 +1,4 @@
 #All the files with .log extension will be ignored
 
 *.log
+*.orig
